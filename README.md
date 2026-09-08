@@ -75,7 +75,16 @@ Projetos desenvolvidos durante minha graduação para praticar lógica de progra
 Estou constantemente desenvolvendo novos projetos para colocar em prática meus conhecimentos e construir meu portfólio.
 
 Confira meus repositórios abaixo 👇
+  
+💻 Desenvolvedor Júnior | Java | Backend
 
+📌 Projetos
+
+🏦 Sistema Bancário   
+👥 Cadastro de Clientes  
+📦 Sistema de Produtos  
+🌐 API REST  
+🗄️ Sistema com Banco de Dados
 ---
 
 ## 📊 GitHub Stats
@@ -89,6 +98,16 @@ Confira meus repositórios abaixo 👇
 ## 📫 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+## 📫 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__gasque/)
+
+
+
+📧 **E-mail:** vinigasque@gmail.com
 
 ---
 
